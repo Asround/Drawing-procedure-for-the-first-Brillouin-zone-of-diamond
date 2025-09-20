@@ -7,7 +7,7 @@
 1. 根目录下:
   1. `diamond_unit_cell.py` 仅绘制金刚石晶体学原胞
   2. `first_brillouin_zone.py` 仅绘制金刚石第一布里渊区图像(截角八面体)
-  3. `draw_both` 将上述两图绘制在一起, 左边是晶胞, 右边是布里渊区
+  3. `draw_both.py` 将上述两图绘制在一起, 左边是晶胞, 右边是布里渊区
 2. outputs 文件夹下:
   1. `diamond_cell.html` 是可直接打开的金刚石晶体学原胞html格式可交互图像
   2.  `brillouin_zone.html` 是可直接打开的金刚石第一布里渊区html格式可交互图像
